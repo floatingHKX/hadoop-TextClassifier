@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TextClassifier">
+    <output-path>$PROJECT_DIR$/out/artifacts/TextClassifier</output-path>
+    <root id="archive" name="TextClassifier.jar">
+      <element id="module-output" name="TextClassifier" />
+    </root>
+  </artifact>
+</component>
